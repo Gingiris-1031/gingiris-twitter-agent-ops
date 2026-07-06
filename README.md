@@ -7,6 +7,16 @@
 >
 > 本 skill 适用于任何支持 system prompt 的 AI agent（Claude Code, Cursor, Trae, GPT）。
 
+> 📌 **本仓库是分发镜像（distribution mirror）**。SOP 的主版本维护在 monorepo：**[gingiris-skills/skills/gingiris-twitter-agent-ops](https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/gingiris-twitter-agent-ops)**，最新修订以那边为准。Landing page: [gingiris.tools](https://gingiris.tools)
+
+## 📦 安装 / Install
+
+```bash
+npx skills add Gingiris-1031/gingiris-twitter-agent-ops
+# or
+clawhub install gingiris-twitter-agent-ops
+```
+
 ---
 
 ## 一、系统架构概览
