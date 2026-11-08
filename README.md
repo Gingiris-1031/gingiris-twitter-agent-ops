@@ -393,3 +393,7 @@ npx -y skills add Gingiris-1031/gingiris-twitter-agent-ops
 ---
 
 *License: MIT*
+
+## Updated workflow · v2.3.0
+
+Read [voice and format](references/voice-and-format.md): separate author preference from distribution performance; choose single posts or threads for the actual request and account. No fixed thread quota.

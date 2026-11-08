@@ -1,1 +1,1 @@
-Twitter/X agent ops — turn an AI agent into a ghostwriter that sounds like you, with a documented 45-day case. Mirror repo
+Operate evidence-led X/Twitter and related social workflows: original-source intake, voice calibration, single-post or thread selection, reviewed drafts, authorized publishing, delivery readback and measured follow-up. Use for social operations, content planning, publishing checks, analytics and cross-platform adaptation. 适用于社媒运营、文风校准、内容规划、发布回读与数据复盘；区分草稿、发布授权和真实结果，按账号与任务选择格式，不把历史经验当通用平台规则。
